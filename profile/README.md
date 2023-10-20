@@ -2,6 +2,7 @@
 
 The purpose of this "spntools" organization is to provide a space where service-provider network tools can be developed and maintained.
 
-> Note that this is a private organization at this point, so many repositories might not be set to public!
+# Repository visibility
 
+This is a private organization at this point, so most (all?) of its repositories might not be set to public.  The development team consists of only one part-time developer, so it may also be that these repositories will remain private forever.
 
